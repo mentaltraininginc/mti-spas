@@ -124,7 +124,7 @@ anylinkmenu.init("menuanchorclass")
 
 <div class="container" id="flash">
 
-  <div style="margin-right:35px; margin-left:20px; margin-top:35px; margin-bottom:20px; width:575px; float:left; background-image:url(images/bkg-video.png); height:380px;"><p style="margin-left:31px; margin-top:27px"><iframe src="http://player.vimeo.com/video/35799699?title=0&amp;byline=0&amp;portrait=0" width="511" height="312" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
+  <div style="margin-right:35px; margin-left:20px; margin-top:35px; margin-bottom:20px; width:575px; float:left; background-image:url(images/bkg-video.png); height:380px;"><p style="margin-left:31px; margin-top:27px"><iframe src="https://player.vimeo.com/video/35799699?title=0&amp;byline=0&amp;portrait=0" width="511" height="312" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
 
     </div>
 
@@ -187,19 +187,19 @@ anylinkmenu.init("menuanchorclass")
 
           <p><img src="images/divider-.png" alt="" width="591" height="18" /></p></td>
 
-          <td width="67%"><p><img src="http://www.parentmentaltrainer.com/images/RobyParents.jpeg" alt="Parents" width="120" height="133" align="left" style="padding-right:20px" />Parent Mental Trainer&reg; helped us understand how our support needs to adapt to the changing environments in which our son trains and competes. Because of this program, not only have the interactions we have within our family improved, but our conversations with coaches have been more productive and most importantly, the relationship between the athlete and coach has strengthened.&quot;          </p></td>
+          <td width="67%"><p><img src="/images/RobyParents.jpeg" alt="Parents" width="120" height="133" align="left" style="padding-right:20px" />Parent Mental Trainer&reg; helped us understand how our support needs to adapt to the changing environments in which our son trains and competes. Because of this program, not only have the interactions we have within our family improved, but our conversations with coaches have been more productive and most importantly, the relationship between the athlete and coach has strengthened.&quot;          </p></td>
 
 <p>- Aaron &amp; Debbie Roby, Jacksonville, FL<br />
 
           </p>
 
-<p><img src="images/divider-.png" alt="" width="591" height="18" /></p>
+<p><img src="/images/divider-.png" alt="" width="591" height="18" /></p>
 
           <p>&ldquo;My sincere respect and appreciation for the faculty of the CMC Course, for <strong>making the &ldquo;mental component&rdquo; of the coaching puzzle so accessible</strong>. With this <strong>well designed, in-depth and user friendly on-line curriculum </strong>I was able to study at my own pace and pass the final test successfully.</p>
 
 <p>After exploring technique, strategy and fitness, I strongly believe that many athletes are now becoming more, and more, open to learning and implementing mental skills. For coaches, who take pride in providing their students with <strong>the best and most current information, the CMC course</strong> is a great starting point&rdquo;.</p>
 
-          <p><img src="http://certifiedmentalcoach.com/images/Hans_Romer-thumbs.jpg" alt="Hans Romer - Certified Mental Coach" width="96" height="96" align="left" style="padding-right:20px" /><em>Hans Römer - USPTA Master Professional <br />
+          <p><img src="/images/Hans_Romer-thumbs.jpg" alt="Hans Romer - Certified Mental Coach" width="96" height="96" align="left" style="padding-right:20px" /><em>Hans Römer - USPTA Master Professional <br />
 
             PTR 5A National Tester/Clinician | US Correspondent &ldquo;Tennisjournaal&rdquo;<br />
 
@@ -249,7 +249,7 @@ anylinkmenu.init("menuanchorclass")
 
   	        <p ><strong>Mental Training Inc. (MTI) Background</strong></p>
 
-         <p style="font-size:0.8em"> <img src="images/mti-stone-tower-dallas.png" width="153" height="115" align="right" style="padding-left:20px" />MTI was founded in 2006 by Dr. Robert Neff. Dr. Neff is a Certified Mental Trainer®, listed on the US Olympic Committee's Sport Psychology Registry, is AASP certified and has a Ph.D in Sport Psychology from Michigan State. He was a Division 1 college scholarship player who competed and coached professionally for over 10 years. MTI&rsquo;s primary mission is to offer quality, affordable mental training to coaches, athletes &amp; parents world-wide.</p>
+         <p style="font-size:0.8em"> <img src="/images/mti-stone-tower-dallas.png" width="153" height="115" align="right" style="padding-left:20px" />MTI was founded in 2006 by Dr. Robert Neff. Dr. Neff is a Certified Mental Trainer®, listed on the US Olympic Committee's Sport Psychology Registry, is AASP certified and has a Ph.D in Sport Psychology from Michigan State. He was a Division 1 college scholarship player who competed and coached professionally for over 10 years. MTI&rsquo;s primary mission is to offer quality, affordable mental training to coaches, athletes &amp; parents world-wide.</p>
 
    	</div>
 
@@ -257,7 +257,7 @@ anylinkmenu.init("menuanchorclass")
 
     	
 
-          <a href="http://mentaltraininginc.com/images/approvedbytext.jpg" rel="lightbox"><img src="images/approved-by.png" style="padding-left:10px" width="166" height="356" /></a>
+          <a href="/images/approvedbytext.jpg" rel="lightbox"><img src="/images/approved-by.png" style="padding-left:10px" width="166" height="356" /></a>
 
 </div>
 
