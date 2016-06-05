@@ -61,7 +61,7 @@ $mosConfig_smtphost = 'localhost';
 $mosConfig_smtppass = '';
 $mosConfig_smtpuser = '';
 $mosConfig_uniquemail = '1';
-$mosConfig_user = 'ba9efa514fade0s';
+$mosConfig_user = 'ba9efa514fade0';
 $mosConfig_useractivation = '0';
 $mosConfig_vote = '0';
 setlocale (LC_TIME, $mosConfig_locale);
