@@ -1,5 +1,4 @@
 <?php 
-var $error_reporting = '6135';
 $mosConfig_MetaAuthor = '1';
 $mosConfig_MetaDesc = 'Robertneff.com is a mental skills training and coaching business based in Dallas, Texas. Clients include U.S. Olympic team members, professional athletes, elite amateur athletes in all sports, as well as non-athlete performers residing around the world.';
 $mosConfig_MetaKeys = 'Sports Psychology Dallas | Psychologist | Robert Neff | Peak Performance | Mental Toughness | Mental Skills in Sport | Mental Training for Athletes | Dallas | Texas | Mental Health |';
